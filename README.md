@@ -22,7 +22,9 @@ This repository contains a collection of Python tutorials and code snippets that
   - [Set]()
   
   
-- [Python Functions]() : an introduction to the Function in Python
+- [Python Functions](https://github.com/Akash11gavhane/Python/tree/master/python%20Jupyter%20files/Functions) : an introduction to the Function in Python
+- [Python OOP](https://github.com/Akash11gavhane/Python/tree/master/python%20Jupyter%20files/Python%20OOP) : an introduction to the Python OOP
+- [Python Classes and Objects](https://github.com/Akash11gavhane/Python/tree/master/python%20Jupyter%20files/Python%20classes%20and%20Objects) : Introduction to Classes and Objects
 
 ## Contributing
 
